@@ -1,0 +1,22 @@
+
+
+.about {
+    padding-top: 100px;
+    background-color: orange;
+}
+.heroes {
+    padding-top: 50px;
+    background-color: #e2edff;
+  }
+
+  .eek{
+   background-color: orange;
+  }
+  #projects {
+    background-color: #e2edff;
+    /* kalau id pake pagar */
+  }
+  
+  section {
+    padding-top: 5rem;
+  }
